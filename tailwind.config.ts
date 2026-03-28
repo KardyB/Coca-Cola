@@ -16,8 +16,8 @@ const config: Config = {
         'coke-gold': '#C9A84C',
       },
       fontFamily: {
-        display: ['var(--font-playfair)', 'Playfair Display', 'serif'],
-        body: ['var(--font-inter)', 'Inter', 'sans-serif'],
+        display: ['Playfair Display', 'serif'],
+        body: ['Inter', 'sans-serif'],
       },
       transitionTimingFunction: {
         'coke-ease': 'cubic-bezier(0.22, 1, 0.36, 1)',
